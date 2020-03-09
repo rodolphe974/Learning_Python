@@ -1,3 +1,5 @@
+#premier_script.py
+#apprentissage de PYTHON sur OC
 # -*- coding: utf8 -*-
 import json
 import random
